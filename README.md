@@ -14,4 +14,3 @@ atualmente estou a procura do meu primeiro emprego de programador e estou estuda
 <a href="https://instagram.com/l7_kas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-dias-b109a7230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-![Snake animation](https://github.com/seu-usuário-aqui/LUk3VIT/blob/output/github-contribution-grid-snake.svg)
