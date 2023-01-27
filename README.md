@@ -8,4 +8,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 Estou estudando no momento, Formação de PHP, HTML e CSS no Alura.
 - 🤝 Pretendo trabalhar com Full Stack na Web. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues,)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
