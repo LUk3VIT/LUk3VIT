@@ -10,3 +10,6 @@ atualmente estou a procura do meu primeiro emprego de programador e estou estuda
 - 🤝 Pretendo trabalhar com Full Stack na Web. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUk3VIT)](https://github.com/anuraghazra/github-readme-stats)
