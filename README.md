@@ -1,7 +1,5 @@
 # Lucas Dias
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Oba 👋
 
 Eu sou Lucas Dias, sou recém formado em Ti para Internet integrado com o ensino médio na Etec, 
