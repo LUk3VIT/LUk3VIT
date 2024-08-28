@@ -2,12 +2,13 @@
 
 ### Oba 👋
 
-Eu sou Lucas Dias, sou recém formado em Ti para Internet integrado com o ensino médio na Etec, 
-atualmente estou a procura do meu primeiro emprego de programador e estou estudando pelo Alura.
+Eu sou Lucas Dias, sou formado em Ti para Internet integrado no ensino médio da Etec foi um curso Técnico de 3 anos
+atualmeto estou fazendo faculdade no Anchiente, Ciências da Computação, presencial, periodo de noite 
+atualmente estou a procura do meu primeiro emprego na area TI, voltado para programação.
 
-- 🔭 Avançando um projeto, que se chama Brins.
-- 🌱 Estou estudando no momento, Formação de PHP, HTML e CSS no Alura.
-- 🤝 Pretendo trabalhar com Full Stack na Web. 
+- 🔭 Desenvolvendo minha habilidade em programação.
+- 🌱 Estou fazendo faculdade no momento e fazendo outros cursos.
+- 🤝 Pretendo trabalhar como Full Stack. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUk3VIT&hide=PHP,Hack&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
