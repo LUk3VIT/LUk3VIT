@@ -2,13 +2,20 @@
 
 ### Oba 👋
 
-Eu sou Lucas Dias, sou formado em Ti para Internet integrado no ensino médio da Etec foi um curso Técnico de 3 anos
-atualmeto estou fazendo faculdade no Anchiente, Ciências da Computação, presencial, periodo de noite 
-atualmente estou a procura do meu primeiro emprego na area TI, voltado para programação.
 
-- 🔭 Desenvolvendo minha habilidade em programação.
-- 🌱 Estou fazendo faculdade no momento e fazendo outros cursos.
-- 🤝 Pretendo trabalhar como Full Stack. 
+Claro, aqui está uma descrição para o seu perfil do GitHub com base nas informações fornecidas:
+
+👋 Olá! Sou Lucas Dias, tenho 20 anos e tenho um grande interesse por tecnologia e desenvolvimento. Com uma formação Técnica em TI para Internet pela ETEC de Jarinu e atualmente cursando Ciência da Computação na Faculdade Anchieta, estou sempre buscando conhecer e evoluir no mundo da programação.
+
+💻 Conhecimentos:
+
+Linguagens e Tecnologias: PHP, HTML, CSS, Bootstrap, MySQL, XAMPP, JavaScript e Python.
+Interesses futuros: Laravel, Angular, Node.js, Composer.
+🔧 Projeto Atual: Atualmente, estou focado no aperfeiçoamento do meu projeto "BandoDeDados", onde estou praticando programação orientada a objetos (POO) com PHP, integração com MySQL usando XAMPP e criação de interfaces responsivas com Bootstrap.
+
+🌟 Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores. Se você está interessado em discutir sobre desenvolvimento, tecnologias emergentes ou simplesmente trocar ideias, sinta-se à vontade para entrar em contato!
+
+📫 Você também pode me encontrar em:  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUk3VIT&hide=PHP,Hack&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
