@@ -7,6 +7,7 @@
 💻 Conhecimentos:
 
  .Linguagens e Tecnologias: PHP, HTML, CSS, Bootstrap, MySQL, XAMPP, JavaScript e Python.
+ 
  .Interesses futuros: Laravel, Angular, Node.js, Composer.
 
 🔧 Projeto Atual: Atualmente, estou focado no aperfeiçoamento do meu projeto "BandoDeDados", onde estou praticando programação orientada a objetos (POO) com PHP, integração com MySQL usando XAMPP e criação de interfaces responsivas com Bootstrap.
