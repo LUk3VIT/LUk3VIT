@@ -6,9 +6,7 @@
 
 💻 Conhecimentos:
 
- Linguagens e Tecnologias: PHP, HTML, CSS, Bootstrap, MySQL, XAMPP, JavaScript e Python.
- 
- Interesses futuros: Laravel, Angular, Node.js, Composer.
+ Linguagens e Tecnologias: PHP, Composer, JavaScript, TypeScript, Node, C#, .NET, MySQL, NoSQL, HTML, CSS, Bootstrap, Git, Docker.
 
 🌟 Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores. Se você está interessado em discutir sobre desenvolvimento, tecnologias emergentes ou simplesmente trocar ideias, sinta-se à vontade para entrar em contato!
 
