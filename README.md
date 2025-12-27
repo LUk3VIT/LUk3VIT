@@ -13,6 +13,3 @@
 📫 Você também pode me encontrar em:  
 
 <a href="https://www.linkedin.com/in/lucas-dias-b109a7230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUk3VIT&hide=issues&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUk3VIT&hide=PHP,Hack&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
-
