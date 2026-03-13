@@ -2,7 +2,7 @@
 
 ### Oba 👋
 
-👋 Olá! Sou Lucas Dias, tenho 20 anos e tenho um grande interesse por tecnologia e desenvolvimento. Com uma formação Técnica em TI para Internet pela ETEC de Campo Limpo Paulista e atualmente cursando Ciência da Computação na Faculdade Anchieta, estou sempre buscando conhecer e evoluir no mundo da programação.
+👋 Olá! Sou Lucas Dias, tenho 21 anos e tenho um grande interesse por tecnologia e desenvolvimento. Com uma formação Técnica em TI para Internet pela ETEC de Campo Limpo Paulista e atualmente cursando Ciência da Computação na Faculdade Anchieta, estou sempre buscando conhecer e evoluir no mundo da programação.
 
 💻 Conhecimentos:
 
